@@ -1,0 +1,47 @@
+.body{
+  padding: 16px 0;
+  margin: 0 31px;
+}
+.title{
+  height: 38px !important;
+  line-height: 38px !important;
+  padding: 0 23px;
+}
+.slider{
+border: 1px solid #fff;
+}
+.slider:hover{
+  background: #019cf9 !important;
+   color: #fff !important;
+}
+
+.slider.is-active {
+    color: #fff;
+    background-color:  #019cf9 !important;
+}
+.el-submenu__title:hover {
+  	color: #fff !important;
+    background-color:  #019cf9 !important;
+  }
+  .menu-item:hover{
+    color: #019cf9 !important;
+
+  }
+  .menu-item.is-active{
+    color:  #019cf9 !important;
+
+  }
+  .col{
+    margin-left:30px;
+    margin-right:70px;
+
+  }
+  .position{
+
+        height: 44px;
+        line-height: 44px;
+        width: 100%;
+       font-size: 14px;
+        color: #8c8c8c;
+        border-bottom: 1px solid #e7e7e7;
+  }

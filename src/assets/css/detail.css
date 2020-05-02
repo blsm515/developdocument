@@ -1,0 +1,49 @@
+ .subtitle {
+          position: relative;
+          font-size: 24px;
+          color: #292929;
+          padding: 35px 0 20px;
+          background-repeat: no-repeat;
+          background-position: 0 37px;
+          line-height: 1;
+          font-weight: 400;
+      }
+
+    p{
+          color: #767676;
+          margin: 5px 0;
+          line-height: 2;
+           font-size: 14px;
+    }
+    h2{
+
+         font-size: 18px;
+          font-weight: 400;
+          color: #3c3d3f;
+          margin: 0 0 20px;
+          padding: 30px 0 20px;
+          border: 0;
+          border-bottom: 1px solid #e7e7e7;
+
+
+    }
+    .el-tabs--border-card{
+      margin:10px;
+    }
+     .el-tabs__nav-scroll {
+      background-color: #fff
+  }
+
+    .el-tabs__item{
+        border-right-color: #fff;
+        border-bottom: 1px solid #e7e7e7;
+
+  }
+
+  .el-tabs__item.is-active {
+
+
+      border-right-color: #fff !important;
+      border-left-color: #fff !important;
+      border-bottom: 2px solid #019cf9 !important;
+  }
